@@ -1,1 +1,1 @@
-Predict the generation of power of the given plan in a duration
+Predict the generation of power of the given plant in a duration
